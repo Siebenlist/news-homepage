@@ -1,6 +1,6 @@
 {
+   "homepage": "https://Siebenlist.github.io/",
    "name": "news-homepage",
-   "homepage": "https://Siebenlist.github.io/news-homepage",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
